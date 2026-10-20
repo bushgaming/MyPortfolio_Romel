@@ -21,3 +21,4 @@ A responsive portfolio website for web design and development commissions.
 6. Update the page title and meta description near the top of `index.html`.
 
 The sample project previews are CSS illustrations, not real portfolio projects. The contact button opens the visitor's email application through a `mailto:` link; it does not submit a form or store messages.
+
